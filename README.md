@@ -10,6 +10,8 @@ Here are four takeaways from the information that was collected:
 - About half of the workforce that needs to be replaced seems to have a background in engineering. It would be good to begin looking for engineers to replace this set.
 - I did another query on the data set to find the number of employees that were born in each year.  This query produced data that showed that it seems the company has about 18,000 employees that were born in each year from 1952 to 1964.  This number had little variation from year to year.  Without knowing the number of employees after this year it is tough to make too much of a prediction but it seems that 18,000 employees per year would be a good start to replace the workforce.
 
+Code to determine number of employees born each year:
 ![Queries/Number-of-Birthdays-Each-Year.png](Queries/Number-of-Birthdays-Each-Year.png)
 
+Data from number of employees born each year:
 [Data/birthday_per_year.csv](Data/birthday_per_year.csv)
