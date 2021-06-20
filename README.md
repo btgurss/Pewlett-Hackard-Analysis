@@ -9,3 +9,7 @@ Here are four takeaways from the information that was collected:
 - The starting data from each file only contained information of the employees that were born before the year 1966.  This gives an idea on how many employees that are reaching a certain age.  Personally, I would like to see the percent of employees in each department that may be of this age so that I know which place to begin looking for recruits.  The raw numbers at a company this large make it difficult to know exactly how much of the workforce might be leaving.
 - About half of the workforce that needs to be replaced seems to have a background in engineering. It would be good to begin looking for engineers to replace this set.
 - I did another query on the data set to find the number of employees that were born in each year.  This query produced data that showed that it seems the company has about 18,000 employees that were born in each year from 1952 to 1964.  This number had little variation from year to year.  Without knowing the number of employees after this year it is tough to make too much of a prediction but it seems that 18,000 employees per year would be a good start to replace the workforce.
+
+![Queries/Number-of-Birthdays-Each-Year.png](Queries/Number-of-Birthdays-Each-Year.png)
+
+[Data/birthday_per_year.csv](Data/birthday_per_year.csv)
